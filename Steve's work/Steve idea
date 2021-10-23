@@ -1,1 +1,13 @@
+Reviewing prior work:
 
+Representation Learning on Networks
+http://snap.stanford.edu/proj/embeddings-www/
+
+Graph Convolutional Neural Networks for Web-Scale Recommender Systems
+https://arxiv.org/pdf/1806.01973v1.pdf
+
+Graph Neural Networks in Recommender Systems: A Survey
+https://arxiv.org/pdf/1806.01973v1.pdf
+
+Marius: Learning Massive Graph Embeddings on a Single Machine
+https://www.usenix.org/system/files/osdi21-mohoney.pdf
