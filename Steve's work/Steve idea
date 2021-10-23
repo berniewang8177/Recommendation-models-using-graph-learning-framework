@@ -11,3 +11,18 @@ https://arxiv.org/pdf/1806.01973v1.pdf
 
 Marius: Learning Massive Graph Embeddings on a Single Machine
 https://www.usenix.org/system/files/osdi21-mohoney.pdf
+
+Optimizing the Deep Learning Recommendation Model on NVIDIA GPUs
+https://developer.nvidia.com/blog/optimizing-dlrm-on-nvidia-gpus/
+
+Deep Learning Recommendation Model for Personalization and Recommendation Systems
+https://arxiv.org/pdf/1906.00091.pdf
+https://github.com/facebookresearch/dlrm
+
+-- Datasets for Training / Testing
+
+Criteo Kaggle Display Advertising Challenge
+http://labs.criteo.com/2014/02/download-kaggle-display-advertising-challenge-dataset/
+
+Criteo Terabyte Click Logs
+https://labs.criteo.com/2013/12/download-terabyte-click-logs/
